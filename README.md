@@ -6,8 +6,9 @@ Java 11 hoặc phiên bản cao hơn.
 
 Cài đặt 🔌
 Nhấn nút Fork (góc trên bên phải trang GitHub) để lưu một bản sao của dự án vào tài khoản GitHub của bạn.
-Tải mã nguồn dự án từ GitHub hoặc sử dụng lệnh sau để sao chép repository:
-git clone https://github.com/TranDangNgocCong/calculator_coban_Desktop.git
+
+Tải mã nguồn dự án từ GitHub hoặc sử dụng lệnh sau để sao chép repository: git clone https://github.com/TranDangNgocCong/calculator_coban_Desktop.git
+
 Mở dự án bằng IntelliJ IDEA hoặc bất kỳ IDE Java nào khác như Eclipse, NetBeans,...
 Chạy ứng dụng và bắt đầu sử dụng.
 
